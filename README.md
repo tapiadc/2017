@@ -17,21 +17,6 @@ Room: Cortland
 
 Details: TBA
 
-
-| Names | Affiliation| Title|
-|------------|-------------------|---------------------------------------|
-Shubbhi Taneja | Auburn University | [Thermal-aware High Performance Clusters](#taneja)
-Vijay Rajanna | Texas A&M University | [A Gaze-Assisted Multimodal Approach to Rich and Accessible Human-Computer Interaction](#rajanna)
-Imani Palmer | University of Illinois at Urbana-Champaign | [Improving the Efficacy of Digital Forensics](#palmer)
-Shadi Noghabi | University of Illinois at Urbana-Champaign | [Building a Scalable Distributed Online Media Processing Environment](#noghabi)
-Martha O. Perez-Arriaga | University of New Mexico | [Automated Generation of Semantic Data Models from Scientific Publications](#perez-arriaga)
-Hoda Aghaei Khouzani | University of Delaware | [Runtime Solutions to Apply Non-volatile Memories in Future Computer Systems](#khouzani)
-Ifeoma Adaji | University of Saskatchewan | [Improving E-commerce Shoppers’ Experience using Personalization & Persuasive Technology](#adaji)
-Samuel Gutiérrez | University of New Mexico | [Dynamically Accommodating Thread-Level Heterogeneity in Coupled Parallel Applications](#gutiérrez)
-Sultanah Alshammari | University of North Texas | [Computational Framework to Assess the Risk of Global Epidemics at Mass Gatherings](#alshammari)
-Shreyasee Mukherjee | WINLAB, Rutgers University | [Towards Pervasive Heterogeneous Wireless Access at the Edge](#mukherjee)
-
-
 ### For Presenters
 
 - Each presenter will give a 30 minute presentation with about 15 minutes for questions.
@@ -39,7 +24,20 @@ Shreyasee Mukherjee | WINLAB, Rutgers University | [Towards Pervasive Heterogene
 - Please refer to [this blog post](http://programanalysis.blogspot.com/2012/10/splash-2012-doctoral-symposium.html) when preparing your 30-minute presentation at the Doctoral Consortium (advice information on [Tao Xie's advice portal](http://web.engr.illinois.edu/~taoxie/advice/) can be also useful).
 
 
-### Abstracts
+### Presenters
+
+| Names | Affiliation| Title|
+| ------------ |------------------ | --------------------------------------- |
+| Vijay Rajanna | Texas A&M University | [A Gaze-Assisted Multimodal Approach to Rich and Accessible Human-Computer Interaction](#rajanna) |
+| Imani Palmer | University of Illinois at Urbana-Champaign | [Improving the Efficacy of Digital Forensics](#palmer) |
+| Shadi Noghabi | University of Illinois at Urbana-Champaign | [Building a Scalable Distributed Online Media Processing Environment](#noghabi) |
+| Martha O. Perez-Arriaga | University of New Mexico | [Automated Generation of Semantic Data Models from Scientific Publications](#perez-arriaga) |
+| Hoda Aghaei Khouzani | University of Delaware | [Runtime Solutions to Apply Non-volatile Memories in Future Computer Systems](#khouzani) |
+| Ifeoma Adaji | University of Saskatchewan | [Improving E-commerce Shoppers’ Experience using Personalization & Persuasive Technology](#adaji) |
+| Samuel Gutiérrez | University of New Mexico | [Dynamically Accommodating Thread-Level Heterogeneity in Coupled Parallel Applications](#gutiérrez) |
+| Sultanah Alshammari | University of North Texas | [Computational Framework to Assess the Risk of Global Epidemics at Mass Gatherings](#alshammari) |
+| Shreyasee Mukherjee | WINLAB, Rutgers University | [Towards Pervasive Heterogeneous Wireless Access at the Edge](#mukherjee) |
+
 
 #### Teneja 
 We have developed a thermal-aware job scheduling strategy called tDispatch tailored for MapReduce applications running on Hadoop clusters. The scheduling idea of tDispatch is motivated by a profiling study of CPU-intensive and I/O-intensive jobs from the perspective of thermal efficiency. More specifically, we investigate the thermal behaviors of these two types of jobs running on a Hadoop cluster by stress testing data nodes through extensive experiments. We show that CPU-intensive and I/O-intensive jobs exhibit various thermal and performance impacts on multicore processors and hard drives of Hadoop clusters. After we quantify the thermal behaviors of Hadoop jobs on the master and data nodes of a cluster, we propose our scheduler to alternatively dispatch CPU-intensive and I/O-intensive jobs. We apply our strategy to several MapReduce applications with different resource consumption profiles. Our experimental results show that tDispatch is conducive of creating opportunities to cool down multicore processors and disks in Hadoop clusters deployed in modern data centers. Currently, we are extending these experiments on a Spark cluster installed in a HPC room. For the ongoing experiments, along with the temperatures, we are also considering parameters like energy consumption of the worker nodes, height of the nodes in the rack, thermal patterns in HPC room and the number of nodes. For the same purpose, we are using a big data benchmark suite called HiBench. We will be developing thermal models based on the utilization patterns of these nodes. Our findings can be applied in other thermal-efficient job schedulers that are aware of thermal behaviors of CPU-intensive and I/O-intensive applications submitted to Hadoop and Spark clusters
