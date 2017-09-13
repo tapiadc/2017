@@ -8,11 +8,9 @@ The Tapia 2017 doctoral consortium is Chair by [Dr. Aubrey Rembert](http://tapia
 
 
 #### Location
-Saturday, September 23, 2017 — 8:00AM - 7:00PM
-
-[Hyatt Regency Atlanta](http://tapiaconference.org/venue/)
-
-Room: Cortland
+Saturday, September 23, 2017 — 8:00AM - 7:00PM <br/>
+[Hyatt Regency Atlanta](http://tapiaconference.org/venue/) <br/>
+Room: Cortland <br/>
 
 
 ### Schedule:
