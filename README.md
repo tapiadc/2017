@@ -33,7 +33,7 @@ Details: TBA
 | Imani Palmer | University of Illinois at Urbana-Champaign | [Improving the Efficacy of Digital Forensics](#imani-palmer) |
 | Shadi Noghabi | University of Illinois at Urbana-Champaign | [Building a Scalable Distributed Online Media Processing Environment](#shadi-noghabi) |
 | Martha O. Perez-Arriaga | University of New Mexico | [Automated Generation of Semantic Data Models from Scientific Publications](#martha-o-perez-arriaga) |
-| Hoda Aghaei Khouzani | University of Delaware | [Runtime Solutions to Apply Non-volatile Memories in Future Computer Systems](#hoda aghaei-khouzani) |
+| Hoda Aghaei Khouzani | University of Delaware | [Runtime Solutions to Apply Non-volatile Memories in Future Computer Systems](#hoda-aghaei-khouzani) |
 | Ifeoma Adaji | University of Saskatchewan | [Improving E-commerce Shoppers’ Experience using Personalization & Persuasive Technology](#ifeoma-adaji) |
 | Samuel Gutiérrez | University of New Mexico | [Dynamically Accommodating Thread-Level Heterogeneity in Coupled Parallel Applications](#samuel-gutiérrez) |
 | Sultanah Alshammari | University of North Texas | [Computational Framework to Assess the Risk of Global Epidemics at Mass Gatherings](#sultanah-alshammari) |
