@@ -15,10 +15,33 @@ Room: Cortland <br/>
 
 ### Schedule:
 
-Details: TBA
+---
+
+#### This will change slightly
+
+**Breakfast**: 8:00am - 8:45am  <br/>
+<br/>
+Opening/Intro: 8:45am - 9:00am <br/>
+Session 1: 9:00am - 10:30am ([Presentation 1](#shubbhi-taneja), [Presentation 2](#imani-palmer))<br/>
+**Coffee break** <br/>
+Session 2: 11:00am - 12:30am ([Presentation 3](#shadi-noghabi), [Presentation 4](#vijay-rajanna))<br/>
+<br/>
+**Lunch break**: 12:30pm - 1:00pm <br/>
+<br/>
+Session 3: 1:00pm - 2:30pm ([Presentation 5](#martha-o-perez-arriaga), [Presentation 6](#hoda-aghaei-khouzani))<br/>
+**Coffee break** <br/>
+Session 4:  2:45pm - 4:45pm ([Presentation 7](#samuel-gutiérrez), [Presentation 8](#shreyasee-mukherjee), [Presentation 9](#sultanah-alshammari))<br/>
+Closing: 4:45pm - 5:00pm <br/>
+<br/>
+**Dinner**: 5pm
+<br/>
+
+---
+
 
 ### For Presenters
 
+- Please bring your own laptop to present.
 - Each presenter will give a 30 minute presentation with about 15 minutes for questions.
 - Please send a **1-slide/1-minute self-introduction slide** to the Doctoral Consortium co-chair cgrant@ou.edu before **September, 23 Friday midnight US eastern time**. Please follow the [slide template](https://sites.google.com/site/tapia15dc/tapia-dc-slide-example-taoxie.pptx) to prepare your slide. This slide will be presented by you during the opening of the Doctoral Consortium to allow other consortium attendees to know more about you before the networking throughout the consortium.
 - Please refer to [this blog post](http://programanalysis.blogspot.com/2012/10/splash-2012-doctoral-symposium.html) when preparing your 30-minute presentation at the Doctoral Consortium (advice information on [Tao Xie's advice portal](http://web.engr.illinois.edu/~taoxie/advice/) can be also useful).
@@ -34,7 +57,7 @@ Details: TBA
 | Shadi Noghabi | University of Illinois at Urbana-Champaign | [Building a Scalable Distributed Online Media Processing Environment](#shadi-noghabi) |
 | Martha O. Perez-Arriaga | University of New Mexico | [Automated Generation of Semantic Data Models from Scientific Publications](#martha-o-perez-arriaga) |
 | Hoda Aghaei Khouzani | University of Delaware | [Runtime Solutions to Apply Non-volatile Memories in Future Computer Systems](#hoda-aghaei-khouzani) |
-| Ifeoma Adaji | University of Saskatchewan | [Improving E-commerce Shoppers’ Experience using Personalization & Persuasive Technology](#ifeoma-adaji) |
+| ~Ifeoma Adaji~ | ~University of Saskatchewan~ | ~[Improving E-commerce Shoppers’ Experience using Personalization & Persuasive Technology](#ifeoma-adaji)~ |
 | Samuel Gutiérrez | University of New Mexico | [Dynamically Accommodating Thread-Level Heterogeneity in Coupled Parallel Applications](#samuel-gutiérrez) |
 | Sultanah Alshammari | University of North Texas | [Computational Framework to Assess the Risk of Global Epidemics at Mass Gatherings](#sultanah-alshammari) |
 | Shreyasee Mukherjee | WINLAB, Rutgers University | [Towards Pervasive Heterogeneous Wireless Access at the Edge](#shreyasee-mukherjee) |
