@@ -26,7 +26,7 @@ Session 1: 9:00am - 9:45am ([Presentation 1](#shubbhi-taneja), [Presentation 2](
 Session 2: 9:45am - 11:30am ([Presentation 3](#shadi-noghabi), [Presentation 4](#vijay-rajanna))<br/>
 **Coffee break** <br/>
 Session 3: 11:00pm - 11:45pm ([Presentation 5](#martha-o-perez-arriaga), [Presentation 6](#hoda-aghaei-khouzani)) <br/>
-Session 4:  11:45pm - 12:30pm ([Presentation 7](#samuel-gutiérrez), [Presentation 8](#shreyasee-mukherjee)<br/>
+Session 4:  11:45pm - 12:30pm ([Presentation 7](#samuel-gutiérrez), [Presentation 8](#shreyasee-mukherjee))<br/>
 <br/>
 **Lunch break**: 12:30pm - 1:00pm <br/>
 <br/>
