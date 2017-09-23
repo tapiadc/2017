@@ -10,7 +10,7 @@ The Tapia 2017 doctoral consortium is Chair by [Dr. Aubrey Rembert](http://tapia
 #### Location
 Saturday, September 23, 2017 — 8:00AM - 3:00PM <br/>
 [Hyatt Regency Atlanta](http://tapiaconference.org/venue/) <br/>
-Room: Cortland <br/>
+Room: Cortland + TBD<br/>
 
 
 ### Schedule:
@@ -22,15 +22,17 @@ Room: Cortland <br/>
 **Breakfast**: 8:00am - 8:45am  <br/>
 <br/>
 Opening/Intro: 8:45am - 9:00am <br/>
-Session 1: 9:00am - 10:30am ([Presentation 1](#shubbhi-taneja), [Presentation 2](#imani-palmer))<br/>
+Session 1: 9:00am - 9:45am ([Presentation 1](#shubbhi-taneja), [Presentation 2](#imani-palmer))<br/>
+Session 2: 9:45am - 11:30am ([Presentation 3](#shadi-noghabi), [Presentation 4](#vijay-rajanna))<br/>
 **Coffee break** <br/>
-Session 2: 11:00am - 12:30am ([Presentation 3](#shadi-noghabi), [Presentation 4](#vijay-rajanna))<br/>
+Session 3: 11:00pm - 11:45pm ([Presentation 5](#martha-o-perez-arriaga), [Presentation 6](#hoda-aghaei-khouzani))
+Session 4:  11:45pm - 12:30pm ([Presentation 7](#samuel-gutiérrez), [Presentation 8](#shreyasee-mukherjee)<br/>
 <br/>
 **Lunch break**: 12:30pm - 1:00pm <br/>
 <br/>
-Session 3: 1:00pm - 2:30pm ([Presentation 5](#martha-o-perez-arriaga), [Presentation 6](#hoda-aghaei-khouzani))<br/>
+Session 5: 1:00pm - 1:45pm ([Presentation 9](#sultanah-alshammari))<br/>
+<br/>
 **Coffee break** <br/>
-Session 4:  2:45pm - 4:45pm ([Presentation 7](#samuel-gutiérrez), [Presentation 8](#shreyasee-mukherjee), [Presentation 9](#sultanah-alshammari))<br/>
 Closing: 4:45pm - 5:00pm <br/>
 <br/>
 **Dinner**: 5pm
